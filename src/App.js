@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import prvi from './components/prvi'
-import App2 from './components/App2';
+import prvi from './pages/prvi'
+import App2 from './pages/App2';
 import {
   BrowserRouter,
   Router,
@@ -10,7 +10,7 @@ import {
   Link
 } from "react-router-dom";
 import React from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './pages/Navbar';
 
 
 class App extends React.Component {
