@@ -1,9 +1,9 @@
 import React from 'react'
-import './Footer.css'
+import '../styles/Footer.css'
 import { Link } from 'react-scroll';
-import image1 from './images/instagram.svg';
-import image2 from './images/facebook.svg';
-import image3 from './images/twt.svg';
+import image1 from '../images/instagram.svg';
+import image2 from '../images/facebook.svg';
+import image3 from '../images/twt.svg';
 
 function Footer() {
     return (

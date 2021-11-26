@@ -1,11 +1,11 @@
 import Flickity from 'react-flickity-component'
 import React from 'react'
-import image from './images/carousel 1.png';
-import image1 from './images/carousel 2.png';
-import image2 from './images/carousel 3.png';
-import image3 from './images/text.svg';
+import image from '../images/carousel 1.png';
+import image1 from '../images/carousel 2.png';
+import image2 from '../images/carousel 3.png';
+import image3 from '../images/text.svg';
 
-import "./flickity.css";
+import "../styles/flickity.css";
 
 
 

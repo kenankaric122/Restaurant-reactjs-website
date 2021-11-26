@@ -6,13 +6,13 @@ https://flickity.metafizzy.co
   top:1650px;
   position: relative;
   text-align: center;
-  background-image: url(images/textura.png);
+  background-image: url(../images/textura.png);
 }
 
 .carr{
   text-align: center;
   height: 800px;
-  background-image: url(images/textura.png);
+  background-image: url(../images/textura.png);
   position: relative;
   width: 100%;
   

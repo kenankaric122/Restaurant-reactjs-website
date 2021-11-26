@@ -8,8 +8,8 @@ import {
     NavLink
   } from "react-router-dom";
 import { useState } from 'react';
-import './Navbar.css';
-import logo from './logo.png';
+import '../styles/Navbar.css';
+import logo from '../logo.png';
 import Footer from './Footer';
 import App2 from './App2';
 

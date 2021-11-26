@@ -1,7 +1,7 @@
 import React from 'react'
-import './Header.css';
+import '../styles/Header.css';
 import { Link } from 'react-scroll';
-import image from './images/video.svg';
+import image from '../images/video.svg';
 
 export default function Header() {
     return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
-import './Forma.css'
-import image from './images/naslov1.svg';
+import '../styles/Forma.css'
+import image from '../images/naslov1.svg';
 
 export default function Forma() {
   const { register, handleSubmit, formState: { errors } } = useForm();

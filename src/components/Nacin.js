@@ -1,7 +1,7 @@
 import React from 'react'
-import './Nacin.css';
+import '../styles/Nacin.css';
 import { Link } from 'react-scroll';
-import image from './images/ciko.png';
+import image from '../images/ciko.png';
 
 function Nacin() {
     return (

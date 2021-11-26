@@ -1,6 +1,6 @@
 import React from 'react'
-import './Quote.css';
-import image from './images/qtt.png';
+import '../styles/Quote.css';
+import image from '../images/qtt.png';
 
 function Quote() {
     return (

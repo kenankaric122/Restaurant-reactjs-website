@@ -1,7 +1,7 @@
 import React from 'react'
-import './Mapa.css'
-import image from './images/mapa.png';
-import image1 from './images/mjesto.png';
+import '../styles/Mapa.css'
+import image from '../images/mapa.png';
+import image1 from '../images/mjesto.png';
 
 function Mapa() {
     return (
