@@ -1,0 +1,57 @@
+.mapa{
+    top:2200px;
+    position: relative;
+    text-align: center;
+    background-image: url(images/textura.png);
+    height: 850px;
+}
+
+.slika22{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    position: relative;
+    top: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.slika111{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    position: relative;
+    top: 12%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@media only screen and (max-width: 768px) {
+    .slika22{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: auto;
+        position: relative;
+        width: 400px;
+        height: 220px;
+        top: 40%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    
+    .slika111{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: auto;
+        position: relative;
+        width: 350px;
+        height: 85px;
+        top: 12%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+  }

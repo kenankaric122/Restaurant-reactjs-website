@@ -1,0 +1,44 @@
+.footer{
+    top:2200px;
+    position: relative;
+    text-align: center;
+    height: 350px;
+    display: flex;
+	justify-content: space-around;
+	align-items: center;
+    left: 0;
+	width:100%;
+	z-index: 1;
+    background-color: #111111;
+    color: white;
+    transition: 0.6s ease-in-out;
+
+}
+
+.footer ul{
+    list-style-type: none;
+    margin-left: 7%;
+}
+
+
+.footer ul li a{
+    list-style-type: none;
+    font-family: 'Varela', sans-serif;
+	height:30px;
+	line-height: 30px;
+	margin: 10px;
+	padding: 0px 22px;
+	display: flex;
+	font-size: 0.8rem;
+	font-weight: 500;
+	color:#ffffff;
+    letter-spacing: 2px;
+    transition: 0.2s ease-in-out;
+}
+
+
+.link1{
+    margin-right: 25%;
+    text-align: left;
+}
+
